@@ -1,0 +1,19 @@
+{
+  "name": "sharepricecalculator",
+  "version": "1.0.0",
+  "description": "This program will calculate profit and loss of the shares prices",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha src/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indrajeet26/SharePriceCalculator.git"
+  },
+  "author": "Indrajeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Indrajeet26/SharePriceCalculator/issues"
+  },
+  "homepage": "https://github.com/Indrajeet26/SharePriceCalculator#readme"
+}
