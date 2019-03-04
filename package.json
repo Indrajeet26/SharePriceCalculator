@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Indrajeet26/SharePriceCalculator/issues"
   },
-  "homepage": "https://github.com/Indrajeet26/SharePriceCalculator#readme"
+  "homepage": "https://github.com/Indrajeet26/SharePriceCalculator#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
 }
