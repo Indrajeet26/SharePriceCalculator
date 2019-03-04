@@ -17,6 +17,6 @@ describe("Calculate Profit and Loss of Share Price", () => {
 
     const output = stockPrice(inputArr);
     expect(Number(output.profitValue)).to.equal(19.3);
-    expect(Number(output.lossValue)).to.equal(-12.700000000000001);
+    expect(Number(output.lossValue)).to.equal(-12.7);
   });
 });

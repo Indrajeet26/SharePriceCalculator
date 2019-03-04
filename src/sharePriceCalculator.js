@@ -1,5 +1,6 @@
 const sumCalculation = arr => {
-  return arr.reduce((total, currAmt) => total + currAmt, 0);
+  const sum = arr.reduce((total, currAmt) => total + currAmt, 0);
+  return Math.round(sum * 100) / 100;
 };
 
 const stockPrice = arr => {
